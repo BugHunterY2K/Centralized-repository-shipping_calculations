@@ -1,3 +1,4 @@
+# Here is a new update by BugHunterY2K
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
